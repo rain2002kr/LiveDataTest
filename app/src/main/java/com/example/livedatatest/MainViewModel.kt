@@ -13,7 +13,4 @@ class MainViewModel :ViewModel() {
         trigger.count++
         liveData.value =trigger
     }
-
-
-
 }
